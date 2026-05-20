@@ -1,5 +1,4 @@
 # Elmira — Blockchain Developer & Smart Contract Engineer
-🎓 BSc Computer Engineering 
 
 
 # 💫 About Me:
@@ -50,7 +49,10 @@ Open to full-time Web3 roles and freelance blockchain projects.
 - Swift & iOS Development
 - Advanced smart contract security patterns
 
-  
+## Education
+
+**BSc, Computer Engineering**
+University of Technology · Tabriz · *In progress*
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elmirataghinasab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
