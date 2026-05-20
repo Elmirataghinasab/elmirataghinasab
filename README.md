@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on smart contracts on EVM (full stack),2nd layer and security/audit for smart Contracts. I’m looking to collaborate on a web3 company or business.<br><br>I’m currently learning swift/uikit for IOS development.<br>
+I’m currently working on smart contracts on EVM (full stack),2nd layer and security/audit for smart Contracts.<br></br> I’m looking to collaborate on a web3 company or business.<br><br>I’m currently learning swift/uikit for IOS development.<br>
 
 
 ## 🌐 Socials:
